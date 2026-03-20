@@ -1,0 +1,2 @@
+tb/uart_rx_tb.sv
+tb/uart_tx_tb.sv
